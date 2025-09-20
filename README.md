@@ -1,33 +1,28 @@
-## Hi there 👋
-
-
-**Abd-Alrhmen/Abd-Alrhmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm Abdulrahman Ahmed 👋  
 **Front-End React & Next.js Developer**
 
 🌍 Passionate about building modern, responsive, and user-friendly web applications.  
-🚀 Always learning & exploring new technologies.  
-
-![Profile views](https://komarev.com/ghpvc/?username=Abd-Alrhmen&color=green)
-
+🌱 Passionate about continuous learning and discovering modern tools.  
 ---
 
 ## 📌 Portfolio & CV
-- 🎨 [Portfolio](https://github.com/Abd-Alrhmen/portfolio)  
-- 📄 [CV](https://github.com/Abd-Alrhmen/cv)  
+- 🎨 [Portfolio](https://abd-alrhmen.github.io/portfolio/)  
+- 📄 [CV](https://drive.google.com/file/d/1qPAHCj6mn6HDfIiActnaHicoZI_SUpwc/view?usp=sharing)  
 
 ---
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="60" height="60"/>
+</p>
 
 ---
 
@@ -38,7 +33,5 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ahmed-60b468262)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AbdoAlSaidi19)  
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/abdo_al.saidi)  
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ahmed-60b468262)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/abdo_al.saidi)
