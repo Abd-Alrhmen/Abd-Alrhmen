@@ -6,7 +6,7 @@
 ---
 
 ## 📌 Portfolio & CV
-- 🎨 [Portfolio](https://abd-alrhmen.github.io/portfolio/)  
+- 🎨 [Portfolio](https://portfolio-topaz-nu-30.vercel.app/)  
 - 📄 [CV](https://drive.google.com/file/d/1qPAHCj6mn6HDfIiActnaHicoZI_SUpwc/view?usp=sharing)  
 
 ---
